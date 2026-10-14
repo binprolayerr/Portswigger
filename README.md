@@ -18,7 +18,7 @@ Mỗi chủ đề là một thư mục riêng bên trong gồm các LAB trong c�
 .
 ├── README.md                # Trang giới thiệu chung (file này)
 ├── SQL Injection/
-|   ├── SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+│   ├── SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
 │       ├── README.md
 │       └── images/
 ```
