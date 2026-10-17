@@ -21,6 +21,12 @@ Mỗi chủ đề là một thư mục riêng bên trong gồm các LAB trong c�
 │   ├── SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
 │       ├── README.md
 │       └── images/
+│   ├── SQL injection vulnerability allowing login bypass
+│       ├── README.md
+│       └── images/
+│   ├── SQL injection with filter bypass via XML encoding
+│       ├── README.md
+│       └── images/
 ```
 
 ## Mục lục
