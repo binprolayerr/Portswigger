@@ -18,7 +18,9 @@
 Nhưng đề bài còn yêu cầu ta cần phải xác định được cột có định dạng dữ liệu là string và chèn đoạn ký tự ngẫu nhiên được trang web cung cấp ta cần chèn được đoạn đó vào bảng và xuất ra. Vì vậy đầu tiên ta cần dò các cột xem cột nào có định dạng dữ liệu là string. Với 3 cột ta thực hiện 3 lần như sau:
 
 `UNION SELECT '(random data)', NULL, NULL`
+
 `UNION SELECT NULL, '(random data)', NULL`
+
 `UNION SELECT NULL, NULL, '(random data)'`
 
 Tương ứng với kiểm tra cột 1, 2, 3 có tương ứng với dữ liệu string không. Và ta xác định được ở cột 2 kiểu dữ liệu là string.
