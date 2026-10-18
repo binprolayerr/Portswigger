@@ -12,6 +12,7 @@
 Lúc này ta đã xác định được số lượng cột của truy vấn trả về là 2. Thế nên điều tiếp theo ta cần làm là kiểm tra xem các cột này có đúng định dạng của kiểu dữ liệu mà ta cần nó xuất ra và trả về là string chưa. Ta lần lượt kiểm thử ở 2 cột như sau:
 
 `UNION SELECT 'a',NULL`
+
 `UNION SELECT NULL,'a'`
 
 ![](images/Pasted%20image%2020261018231115.png)
