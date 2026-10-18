@@ -27,6 +27,9 @@ Mỗi chủ đề là một thư mục riêng bên trong gồm các LAB trong c�
 │   ├── SQL injection with filter bypass via XML encoding
 │       ├── README.md
 │       └── images/
+│   ├── SQL injection UNION attack, determining the number of columns returned by the query
+│       ├── README.md
+│       └── images/
 ```
 
 ## Mục lục
