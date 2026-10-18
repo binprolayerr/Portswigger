@@ -20,6 +20,7 @@ Lúc này để kiểm tra số lượng cột trả về trong truy vấn ta s�
 Ở lượt thử 1 cột thì rõ ràng servêr đã báo lỗi vì vậy ta sẽ tiếp tục tăng lên từ từ thành:
 
 `UNION SELECT NULL, NULL`
+
 `UNION SELECT NULL, NULL, NULL`
 
 ![](images/Pasted%20image%2020261018140106.png)
