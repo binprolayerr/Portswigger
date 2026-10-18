@@ -18,21 +18,6 @@ Mỗi chủ đề là một thư mục riêng bên trong gồm các LAB trong c�
 .
 ├── README.md                # Trang giới thiệu chung (file này)
 ├── SQL Injection/
-│   ├── SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
-│       ├── README.md
-│       └── images/
-│   ├── SQL injection vulnerability allowing login bypass
-│       ├── README.md
-│       └── images/
-│   ├── SQL injection with filter bypass via XML encoding
-│       ├── README.md
-│       └── images/
-│   ├── SQL injection UNION attack, determining the number of columns returned by the query
-│       ├── README.md
-│       └── images/
-│   ├── SQL injection UNION attack, finding a column containing text
-│       ├── README.md
-│       └── images/
 ```
 
 ## Mục lục
