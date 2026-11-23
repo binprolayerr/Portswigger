@@ -18,13 +18,15 @@ Mỗi chủ đề là một thư mục riêng bên trong gồm các LAB trong c�
 .
 ├── README.md                # Trang giới thiệu chung (file này)
 ├── SQL Injection/
+├── XSS/
 ```
 
 ## Mục lục
 
 | Chủ đề | Writeup | Trạng thái |
 | ------ | ------- | ---------- |
-| SQL Injection | [Xem writeup](./SQL%20Injection) | Đang cập nhật |
+| SQL Injection | [Xem writeup](./SQL%20Injection) | Xong |
+| XSS | [Xem writeup](./XSS) | Xong |
 
 
 ## Cách đọc
